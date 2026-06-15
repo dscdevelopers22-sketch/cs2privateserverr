@@ -14,8 +14,6 @@
 - ✅ **Web Dashboard** - Live launcher status on website
 - ✅ **Host/Join Servers** - Easy server hosting and joining
 - ✅ **Anti-Bypass Protection** - Secure launcher integration
-- ✅ **Inventory Support** - Full offline inventory access
-
 ## 🌐 Websites
 
 - **counterstrike2.com**
@@ -132,7 +130,7 @@ MIT License - See LICENSE file for details
 ## 🔗 Links
 
 - **GitHub:** https://github.com/dscdevelopers22-sketch/cs2privateserverr
-- **Website:** counterstrike2.com | counterstrike2.net
+- **Website:** counterstrike2server.com | counterstrike2server.net
 
 ---
 
