@@ -131,7 +131,7 @@ MIT License - See LICENSE file for details
 
 ## 🔗 Links
 
-- **GitHub:** https://github.com/dscdevelopers22-sketch/cs2privateserver
+- **GitHub:** https://github.com/dscdevelopers22-sketch/cs2privateserverr
 - **Website:** counterstrike2.com | counterstrike2.net
 
 ---
