@@ -80,9 +80,9 @@ The website will automatically connect to the launcher API when running.
 
 ### Tech Stack
 
-- **Launcher:** C++ with WinAPI
+- **Launcher:** C++
 - **Website:** React + TypeScript + Vite + Tailwind CSS
-- **API:** Local HTTP server (port 27016)
+- **API:** ????
 
 ## 📋 Requirements
 
