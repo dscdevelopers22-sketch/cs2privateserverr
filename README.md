@@ -54,7 +54,7 @@ The launcher runs a local API server on port `27016`.
 
 **Request:**
 ```http
-GET http://localhost:27016/api/status
+GET soon
 ```
 
 **Response:**
